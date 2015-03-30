@@ -10,5 +10,5 @@ Collecting, reviewing, and highlighting the world’s open policies is a core an
 | ------------- | ------------- |
 | Driver  | [Tim Vollmer](https://github.com/tvol)  |
 | Accountable  | [Cable Green](https://github.com/cablegreen)  |
-| Consulted | Add yourselves here |
+| Consulted | [Cable Green](https://github.com/cablegreen) |
 | Informed | Add yourselves here |
