@@ -4,6 +4,8 @@ As a part of a grant from the William and Flora Hewlett Foundation, Creative Com
 
 Collecting, reviewing, and highlighting the world’s open policies is a core and ongoing activity of OPN. As open policies emerge, the Open Policy Registry will record them and provide analysis on which open policies meet the best practices as recommended by the Open Policy Network. New CC tech staff will provide technical support for this deliverable including development, hosting, and maintenance.
 
+Also see [closed Issues](https://github.com/cc-archive/open-policy-registry/issues?q=is%3Aissue+is%3Aclosed)
+
 ## Who's working on it at Creative Commons?
 
 | Role  | Person |
